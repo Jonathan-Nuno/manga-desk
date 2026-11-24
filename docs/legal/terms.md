@@ -19,7 +19,7 @@ The app is not open source. You get the right to use it, not to own it. The app 
 
 ## 2. What the app is for
 
-Manga desk downloads pages from websites that you set up, turns them into comic archives on your disk, and copies them to a reader app on your phone. It ships no content, no catalog and no list of websites. It only reaches the websites you give it.
+Manga desk downloads pages from websites that you set up, turns them into comic archives on your disk, and copies them to a reader app on your phone. It ships no content, no catalog and no list of websites. It only takes pages and images from the websites you give it. The privacy text lists the app's other connections, such as update checks and the optional source agent.
 
 ## 3. What you download is your responsibility
 

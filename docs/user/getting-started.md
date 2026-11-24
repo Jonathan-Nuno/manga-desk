@@ -12,10 +12,7 @@ The same stance is in the [Terms](../legal/terms.md), which Settings › About l
 
 ### 2. Library folder
 
-Choose the folder where Manga desk keeps your manga. The default is:
-
-- macOS: a folder named `Manga desk` in your home folder.
-- Windows: a folder named `Manga desk` in your user folder (`%USERPROFILE%\Manga desk`).
+Choose the folder where Manga desk keeps your manga. The default is a folder named `Manga desk` in your home folder.
 
 Inside it the app uses two folders:
 
@@ -30,7 +27,7 @@ You can change the folder later with Change… in Settings › Library folder, a
 
 ### 3. Phone (optional)
 
-The app lists the iPhones it can see, then the apps on the chosen phone that have file sharing turned on. Inkshelf is preselected when it is installed. The full steps, including trusting the computer, are in [Set up your iPhone](./iphone.md). Do this step later with Choose iPhone… in Settings › iPhone (Change… once a phone is chosen).
+The app lists the iPhones it can see, then the apps on the chosen phone that have file sharing turned on. Inkshelf is preselected when it is installed. You can get it from the App Store: [Inkshelf: Manga & Comic Reader](https://apps.apple.com/us/app/inkshelf-manga-comic-reader/id6824132149). The full steps, including trusting the computer, are in [Set up your iPhone](./iphone.md). Do this step later with Choose iPhone… in Settings › iPhone (Change… once a phone is chosen).
 
 ### 4. Sources (optional)
 
@@ -38,7 +35,7 @@ A source tells the app how a website you may copy from is laid out. You can type
 
 ### 5. Browser support (optional)
 
-A few sites need a browser to show their pages. You can install a small browser for the app, use Chrome or Microsoft Edge if you already have it, or choose Not now. See [Browser support](./browser-support.md). Set it up later in Settings › Browser support.
+A few sites need a browser to show their pages. You can install a small browser for the app, use Google Chrome if you already have it, or choose Not now. See [Browser support](./browser-support.md). Set it up later in Settings › Browser support.
 
 ## Which folder to choose
 

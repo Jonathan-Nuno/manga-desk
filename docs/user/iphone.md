@@ -5,17 +5,14 @@ Manga desk copies your finished chapters into a reader app on your iPhone over a
 ## What you need
 
 - An iPhone and a USB cable.
-- A reader app on the iPhone that has file sharing turned on. Inkshelf is the suggested reader and is preselected when the app finds it. Other readers work too if they support file sharing. Only apps that have file sharing appear in the list.
-- On macOS: nothing else to install.
-- On Windows: Apple's Apple Devices app, free from the Microsoft Store (when Manga desk cannot reach Apple's device service, it offers Open in Microsoft Store and Copy link). iTunes also works. Windows needs the cable: the Apple Devices service does not list a phone that is only on Wi-Fi.
+- A reader app on the iPhone that has file sharing turned on. Inkshelf is the suggested reader and is preselected when the app finds it. Get it from the App Store: [Inkshelf: Manga & Comic Reader](https://apps.apple.com/us/app/inkshelf-manga-comic-reader/id6824132149). Other readers work too if they support file sharing. Only apps that have file sharing appear in the list.
+- Nothing else to install on your Mac.
 
 ## Set up the phone
 
 1. Install the reader app on the iPhone.
 2. Connect the iPhone to the computer with the cable and unlock it.
-3. Let the iPhone trust the computer:
-   - macOS: open Finder once so that it shows the iPhone in the sidebar.
-   - Windows: open the Apple Devices app once with the iPhone connected.
+3. Let the iPhone trust the computer: open Finder once so that it shows the iPhone in the sidebar.
 4. When the iPhone asks "Trust This Computer?", tap Trust and enter your passcode.
 5. In Manga desk, open Settings › iPhone and choose Choose iPhone… (Change… once a phone is chosen). Choose your iPhone, then choose the reader app from the list. If the phone is not listed, choose Refresh. Open iPhone there shows the phone's state.
 
@@ -28,7 +25,7 @@ The app lists the phone's apps from the phone itself, so you never type a device
 3. Keep the cable connected and the iPhone unlocked until the sync ends. A phone that you have unlocked once since it started often keeps working when its screen locks, but a long sync is safer unlocked.
 4. When the sync says it is done, open the reader app on the iPhone. The app cannot open apps on the phone for you, and the reader looks for new chapters when it comes back to the front.
 
-The cable is the supported way. If the phone is on the same Wi-Fi network and Wi-Fi sync is turned on in Finder, Wi-Fi may also work on macOS, but this is best effort and slower.
+The cable is the supported way. If the phone is on the same Wi-Fi network and Wi-Fi sync is turned on in Finder, Wi-Fi may also work, but this is best effort and slower.
 
 ## What Manga desk writes on the phone
 
@@ -45,21 +42,15 @@ The cable is the supported way. If the phone is on the same Wi-Fi network and Wi
 
 You can use these ways with or without Manga desk's own sync. First open your library: choose Show library folder in Manga desk, then open the `library` folder. Each series has its own folder of `.cbz` files.
 
-### Finder (macOS)
+### Finder
 
 1. Connect the iPhone and select it in the Finder sidebar.
 2. Open the Files tab.
 3. Drag the series folders from the `library` folder onto the reader app's name in that list.
 
-### Apple Devices app (Windows)
-
-1. Connect the iPhone and select it in the Apple Devices app.
-2. Open Files.
-3. Drag the series folders from the `library` folder onto the reader app's name in that list.
-
 ### AirDrop
 
-Select the `.cbz` files in Finder, choose Share › AirDrop, and send them to the iPhone. On the phone, open them in the reader app. AirDrop is not available on Windows.
+Select the `.cbz` files in Finder, choose Share › AirDrop, and send them to the iPhone. On the phone, open them in the reader app.
 
 ### Files app
 
@@ -67,4 +58,4 @@ Copy the `.cbz` files to a folder in iCloud Drive or on the phone, then open the
 
 ## Troubleshooting
 
-See [Troubleshooting](./troubleshooting.md): phone not found, phone not trusted, phone locked, Apple Devices missing, and a reader that is not listed.
+See [Troubleshooting](./troubleshooting.md): phone not found, phone not trusted, phone locked, the Apple device service missing, and a reader that is not listed.

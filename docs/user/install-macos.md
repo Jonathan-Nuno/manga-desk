@@ -4,7 +4,7 @@
 
 - macOS 13.5 (Ventura) or later.
 - A Mac with Apple silicon (M1 or newer) or an Intel processor. There is one download for each.
-- About 100 to 120 MB of disk space for the app, plus room for the manga you download.
+- About 250 MB of disk space for the app, plus room for the manga you download.
 - An internet connection for the download and for the sources you set up.
 
 ## Download the right file

@@ -18,10 +18,8 @@ Your library, your settings and your sources stay as they are.
 ## Update by hand
 
 1. Open the latest release page: `https://github.com/Jonathan-Nuno/manga-desk/releases/latest`.
-2. Download the file for your computer, as described in [Install on macOS](./install-macos.md) or [Install on Windows](./install-windows.md).
-3. Install it over the old version. On macOS, drag Manga desk to Applications and choose Replace. On Windows, run the setup file again.
-
-On Windows, a new version of the unsigned beta can show the SmartScreen warning again. See [Install on Windows](./install-windows.md).
+2. Download the file for your Mac, as described in [Install on macOS](./install-macos.md).
+3. Install it over the old version: drag Manga desk to Applications and choose Replace.
 
 ## If a check fails
 
